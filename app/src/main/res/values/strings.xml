@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrailleBack Modern</string>
+    <string name="accessibility_service_description">Braille display support via USB and Bluetooth</string>
+</resources>
